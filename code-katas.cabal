@@ -28,6 +28,7 @@ library
       EvenOrOdd
       Lib
       MultiplesOf3And5
+      Narcissistic
       RoundUpToFive
   other-modules:
       Paths_code_katas
@@ -62,6 +63,7 @@ test-suite code-katas-test
   other-modules:
       EvenOrOddSpec
       MultiplesOf3And5Spec
+      NarcissisticSpec
       RoundUpToFiveSpec
       SampleSpec
       Paths_code_katas
